@@ -1,0 +1,154 @@
+Security 101 Homework: Security Reporting
+Part I: Symantec
+For Part 1 of your homework assignment, you should primarily use the Symantec Internet Security Threat Report along with independent research to answer the following questions.
+
+What is formjacking?
+JavaScript code that is injected into websites to steal credit card information. That information is then sold on the underground markets.
+
+How many websites are compromised each month with formjacking code? 
+4,818 different websites were hit by formjacking code.
+
+What is Powershell?
+PowerShell is a command-line shell. It is used for automating tasks within Windows. The shell is built on .NET framework and can also be used for configuration management.
+
+What was the annual percentage increase in malicious Powershell scripts?
+1000% in 2018 that were blocked
+
+What is a coinminer?
+Coinminers is type of program used to mine cryptocurrency. One example being Bitcoin.
+
+How much can data from a single credit card can be sold for? 
+$45 for a single card and up to $2.2 million each month depending on number of cards that are stolen.
+
+How did Magecart successfully attack Ticketmaster?  Magecart loaded malicious code into web browsers by compromising a 3rd party chat bot 
+
+What is one reason why there has been a growth of formjacking? 
+The reason seems to be that cryptocurrency has been losing value. Using formjacking to see consumer information is a more reliable income.
+
+Cryptojacking dropped by what percentage between January and December 2018?
+It had dropped by 52%. However there were still 3.5 million cryptojacking events in dec. 2018
+
+If a web page contains a coinmining script, what happens? 
+While visiting said site it will use your system resources to “mine” cryptocurrency as long as you are on the site.
+
+How does an exploit kit work? 
+Exploit kit is a tool used to search for vulnerabilities within a system. Once one is found it can be used to download and run malware.
+
+What does the criminal group SamSam specialize in? 
+Ransomware
+
+How many SamSam attacks did Symantec find evidence of in 2018? 
+67 attacks mostly against U.S. organizations.
+
+Even though ransomware attacks declined in 2017-2018, what was one dramatic change that occurred? 
+Originally consumers were being hit the hardest by ransomware. In 2017 it started to lean towards businesses with it increasing to 81% in 2018
+
+In 2018, what was the primary ransomware distribution method? 
+Email, it is still the largest form of communication used in most companies.
+
+What operating systems do most types of ransomware attacks still target?
+Windows-based computers.
+
+What are “living off the land” attacks? What is the advantage to hackers? 
+Is the use of off-the-shelf tools. Example being PowerShell scripts. The main advantage is it can help attackers hide by using legitimate processes.
+What is an example of a tool that’s used in “living off the land” attacks?
+PowerShell scripts and/or macros within Office files.
+
+What are zero-day exploits?
+As discussed in the previous week. It is an attack that occurs the day a weakness is discovered before the victim is aware of it.
+
+By what percentage did zero-day exploits decline in 2018? 
+A decrease of 4%. 23% known in 2018. 27% in 2017
+
+What are two techniques that worms such as Emotet and Qakbot use?
+Password dumbing from memory and brute-forcing access to networks
+
+What are supply chain attacks? By how much did they increase in 2018?
+An attack that exploits 3rd party services and software. It can hijack  software updates or inject malicious code into legitimate software. 78% increase in 2018
+
+What challenge do supply chain attacks and living off the land attacks highlight for organizations? 
+Attacks are increasing by using trusted channels, using fileless attacks. Or the use of legitimate tools such as PowerShell
+
+The 20 most active groups tracked by Symantec targeted an average of how many organizations between 2016 and 2018? 
+55 organizations in the past 3 years.
+
+How many individuals or organizations were indicted for cyber criminal activities in 2018? What are some of the countries that these entities were from? 
+49 individuals or organizations. Countries were Russia, China, Iran and North Korea.
+
+When it comes to the increased number of cloud cybersecurity attacks, what is the common theme? 
+Poor configuration.
+
+What is the implication for successful cloud exploitation that provides access to memory locations that are normally forbidden? 
+A single physical system exploited could leak data from several cloud instances
+
+What are two examples of the above cloud attack? 
+Speculative Store Bypass and Foreshadow
+
+Regarding Internet of Things (IoT) attacks, what were the two most common infected devices and what percentage of IoT attacks were attributed to them? 
+Routers and connected cameras. 75% and 15% with routers being the most targeted
+
+What is the Mirai worm and what does it do? 
+A Distributed denial of service worm
+
+Why was Mirai the third most common IoT threat in 2018? 
+Mirai is always evolving and adding new exploits. Devices also remaining unpatched.
+
+What was unique about VPNFilter with regards to IoT threats?
+It was able to survive a reboot.
+
+What type of attack targeted the Democratic National Committee in 2019? 
+Spear-phishing attack. An email appearing to be from the U.S. Department of state.
+
+What were 48% of  malicious email attachments in 2018? 
+            48% were office files. Up from 5% in 2017
+
+What were the top two malicious email themes in 2018? 
+Bill and Email delivery failure emails
+
+What was the top malicious email attachment type in 2018? 
+.doc, .dot
+
+Which country had the highest email phishing rate? Which country had the lowest email phishing rate?
+Highest: Saudi Arabia - 1 in 675
+Lowest: Canada - 1 in 4,308
+
+
+What is Emotet and how much did it jump in 2018? 
+Emotet is a financial Trojan. Up 12% from 2017 (16% in 2018 and 4% in 2017)
+
+What was the top malware threat of the year? How many of those attacks were blocked?
+Heur.AdvML.C, 43,999,373 attacks blocked (52.1%)
+
+Malware primarily attacks which type of operating system? 
+Windows
+
+What was the top coinminer of 2018 and how many of those attacks were blocked? 
+JS.Webcoinminer, 2,768,721 attacks blocked (49.7%)
+
+
+What were the top three financial Trojans of 2018? 
+Ramnit, Zbot, and Emotet
+
+What was the most common avenue of attack in 2018? 
+Spear-phishing. Used by 65% of known groups
+
+What is destructive malware? By what percent did these attacks increase in 2018? 
+Is a type of malware commonly used to destroy a system. This can be done by deleting or wiping files that are required for the operating system.
+
+What was the top user name used in IoT attacks? 
+Root (38.1%)
+
+What was the top password used in IoT attacks? 
+123456 (24.6%)
+
+What were the top three protocols used in IoT attacks? What were the top two ports used in IoT attacks? 
+Top 3 protocols: telnet (90.9%), http (6.6%), https (1.05)
+Top 2 ports: 23 Telent (85.0%), 80 World Wide Web HTTP (6.5%)
+
+In the underground economy, how much can someone get for the following? 
+
+Stolen or fake identity: $0.10-1.50
+Stolen medical records: $0.10-35
+Hacker for hire: $100+
+Single credit card with full details: $0.50-20
+500 social media followers: $2-6
